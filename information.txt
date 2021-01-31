@@ -1,0 +1,9 @@
+Today we will make writting assist
+
+first go to the terminal or cmd and type:  pip install SpeechRecognition
+
+then copy past the code to python idle3
+
+Then hit the f5 button and speak your name clearly
+
+
